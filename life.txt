@@ -1,3 +1,6 @@
 time is gonna be available
 
 time take for the process
+
+
+git code updatiopn v1.0
